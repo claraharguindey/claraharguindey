@@ -14,7 +14,7 @@
 
 ## Experiencia
 
-Tras finalizar mis estudios de desarrollo front-end en Adalab en el año 2018, he trabajado como desarrolladora en empresas como [NFQ](https://nfq.com) o [Secuoyas](https://secuoyas.com). ⟡ En 2021 inicié mi andadura como _freelance_. Desde entonces he desarrollado proyectos digitales de manera independiente y colaborando en distintos equipos de desarrollo.
+Tras finalizar mis estudios de desarrollo front-end en Adalab en el año 2018, he trabajado como desarrolladora en empresas como [NFQ](https://nfq.com) o [Secuoyas](https://secuoyas.com). ⟡ En 2021 inicié mi andadura como _freelance_. Desde entonces he desarrollado proyectos digitales de manera independiente y colaborado en distintos equipos de desarrollo.
 
 Como desarrolladora, valoro que los proyectos basen su código en los principios de _clean code_ e incluyan tests para asegurar su mantenimiento y escalabilidad.
 
