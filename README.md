@@ -1,10 +1,7 @@
-
-
-
 <img width="120" alt="banner-github" src="https://images.squarespace-cdn.com/content/v1/5af169974611a0bf8c125561/9d8937a7-91d2-4be5-b011-3bb803f59172/IG-stories1-_1_.gif?format=750w"> <img width="120" alt="banner-github" src="https://images.squarespace-cdn.com/content/v1/5af169974611a0bf8c125561/c169ddb9-16be-4ab3-af37-8b2f3dd626c0/prueba2.gif?format=750w">
 
 
-¡Hola! ☻ Soy Clara Harguindey. Trabajo como desarrolladora front-end desde hace más de cinco años. He colaborado con diferentes compañías creando productos digitales y en 2018 co-fundé [Desmusea](https://desmusea.com). Trabajamos con tecnología ❋  para conectar instituciones culturales y públicos. ⁠
+## ¡Hola! ☻ Soy Clara Harguindey. Trabajo como desarrolladora front-end desde hace más de cinco años. He colaborado con diferentes compañías creando productos digitales y en 2018 co-fundé [Desmusea](https://desmusea.com). Trabajamos con tecnología ❋  para conectar instituciones culturales y públicos. ⁠
 
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
