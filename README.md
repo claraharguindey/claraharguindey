@@ -20,7 +20,7 @@
 
 ## Experiencia
 
-Tras finalizar mis estudios de desarrollo front-end en Adalab en el año 2018, he trabajado como desarrolladora en empresas como [NFQ](https://nfq.com) o [Secuoyas](https://secuoyas.com). En 2021 inicié mi andadura como _freelance_. Desde entonces he desarrollado proyectos digitales de manera independiente y colaborando en distintos equipos de desarrollo.
+Tras finalizar mis estudios de desarrollo front-end en Adalab en el año 2018, he trabajado como desarrolladora en empresas como [NFQ](https://nfq.com) o [Secuoyas](https://secuoyas.com). ⟡ En 2021 inicié mi andadura como _freelance_. Desde entonces he desarrollado proyectos digitales de manera independiente y colaborando en distintos equipos de desarrollo.
 
 Como desarrolladora, valoro que los proyectos basen su código en los principios de _clean code_ e incluyan tests para asegurar su mantenimiento y escalabilidad.
 
@@ -138,11 +138,11 @@ El Máster de Moda Digital (Instituto Europeo de Diseño)
 
 y la asignatura de Arte y Tecnología para estudiantes de Ingeniería en la UC3M
 
-### ⚓ club náutico
+###  club náutico ⚓
 
-Esto es muy friki. En un intento de crear un espacio de creación experimental en torno a la web, fundé el [club náutico](https://clubnautico.website/), un club para navegar por Internet y desarrollar web poéticas 
+Esto es muy friki, pero... En un intento por generar un nuevo espacio de creación experimental en torno a la web en Madrid, fundé el [club náutico](https://clubnautico.website/), ✦ un club para navegar por Internet y desarrollar web poéticas de forma colectiva.
 
 
-### Encuéntrame en [Linkedin](https://www.linkedin.com/in/claraharguindey/) ❋
+### Encuéntrame en [Linkedin](https://www.linkedin.com/in/claraharguindey/)
 
 
