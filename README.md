@@ -1,7 +1,4 @@
-<img width="120" alt="banner-github" src="https://images.squarespace-cdn.com/content/v1/5af169974611a0bf8c125561/9d8937a7-91d2-4be5-b011-3bb803f59172/IG-stories1-_1_.gif?format=750w"> <img width="120" alt="banner-github" src="https://images.squarespace-cdn.com/content/v1/5af169974611a0bf8c125561/c169ddb9-16be-4ab3-af37-8b2f3dd626c0/prueba2.gif?format=750w">
-
-
-## ¡Hola! ☻ Soy Clara Harguindey. Trabajo como desarrolladora front-end desde hace más de cinco años. He colaborado con diferentes compañías creando productos digitales y en 2018 co-fundé [Desmusea](https://desmusea.com). Trabajamos con tecnología ❋  para conectar instituciones culturales y públicos. ⁠
+## ¡Hola! ☻ Soy Clara Harguindey. Trabajo como desarrolladora front-end desde hace más de cinco años. He colaborado con diferentes compañías creando productos digitales y en 2018 co-fundé [Desmusea](https://desmusea.com). Trabajamos con tecnología  para conectar instituciones culturales y públicos. ⁠
 
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -29,7 +26,7 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
 ## Algunos proyectos
  <table class="table">
    <tr class="project">
-                <td> <img src="https://radio.museoreinasofia.es/aniversario/img/logo-RRS.webp" width="100" alt="Captura de pantalla del proyecto" />
+                <td> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_logo.svg" width="100" alt="Captura de pantalla del proyecto" />
                 </td>
                 <td class="project-name">
                     <a class="link" href="https://radio.museoreinasofia.es/aniversario/" target="_blank">Web aniversario Radio Reina Sofía
@@ -37,7 +34,8 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
                 </td>
                 <td class="project-year">2021</td>
                 <td class="project-collab">RRS - Museo Reina Sofía</td>
-                <td class="project-creator"> 👩🏻‍💻👩🏻‍💻 
+                <td class="project-creator"> 
+                👩🏻‍💻👩🏻‍💻 
                   <a class="link" href="https://github.com/veroreinah" target="_blank"> Verónica Reina
                 </a>
                 </td>
@@ -121,7 +119,7 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
                     </a>
                 </td>
                 <td class="project-year">2020</td>
-                <td class="project-collab"></td>
+                <td class="project-collab">Desmusea</td>
                 <td class="project-creator">👩🏻‍💻👩🏻‍💻 <a class="link" href="https://github.com/veroreinah" target="_blank">Verónica Reina
                 </a></td>
                 <td><span>&#x2197; </span></td>
@@ -140,6 +138,6 @@ y la asignatura de Arte y Tecnología para estudiantes de Ingeniería en la UC3M
 Esto es muy friki, pero... En un intento por generar un nuevo espacio de creación experimental en torno a la web en Madrid, fundé el [club náutico](https://clubnautico.website/), ✦ un club para navegar por Internet y desarrollar web poéticas de forma colectiva.
 
 
-### Encuéntrame en [Linkedin](https://www.linkedin.com/in/claraharguindey/)
+### Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/claraharguindey/)
 
 
