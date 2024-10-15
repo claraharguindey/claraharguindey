@@ -50,6 +50,7 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
                 <td class="project-year">2024</td>
                 <td class="project-collab"> Museo Reina Sofía</td>
                 <td class="project-creator"></td>
+                <td><span>&#x2197; </span></td>
             </tr>
             <tr class="project">
                 <td> <img src="https://archivoorsini.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-09-27-a-las-14.55.53.png" width="100" alt="Captura de pantalla del proyecto" />
