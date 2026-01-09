@@ -63,6 +63,17 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
                 <td class="project-creator"></td>
                 <td><span>&#x2197; </span></td>
             </tr>
+         <tr class="project">
+                <td> <img src="https://elpuenteyelrio.es/wp-content/uploads/2025/02/logo.png" width="100" alt="Captura de pantalla del proyecto" />
+                </td>
+                <td class="project-name">
+                    <a class="link" href="https://www.archivoorsini.com/" target="_blank">Nos separa el puente y el río</a>
+                </td>
+                <td class="project-year">2024</td>
+                <td class="project-collab">El puente y el río</td>
+                <td class="project-creator"></td>
+                <td><span>&#x2197; </span></td>
+            </tr>
             <tr class="project">
                 <td> <img src="https://plataformabajoteja.com/wp-content/uploads/2023/12/IMG_6381-1.png" width="100" alt="Captura de pantalla del proyecto" />
                 </td>
