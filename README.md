@@ -25,40 +25,13 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
 
 ## Algunos proyectos
  <table class="table">
-   <tr class="project">
-                <td> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_logo.svg" width="100" alt="Captura de pantalla del proyecto" />
-                </td>
-                <td class="project-name">
-                    <a class="link" href="https://radio.museoreinasofia.es/aniversario/" target="_blank">Web aniversario Radio Reina Sofía
-                    </a>
-                </td>
-                <td class="project-year">2021</td>
-                <td class="project-collab">RRS - Museo Reina Sofía</td>
-                <td class="project-creator"> 
-                👩🏻‍💻👩🏻‍💻 
-                  <a class="link" href="https://github.com/veroreinah" target="_blank"> Verónica Reina
-                </a>
-                </td>
-                <td><span>&#x2197; </span></td>
-            </tr>
-            <tr class="project">
-                <td> <img src="https://images.squarespace-cdn.com/content/v1/5af169974611a0bf8c125561/cf2dbb7f-1a9b-4f9a-a388-5d542f468b99/constelacion.gif?format=750w" width="100" alt="Captura de pantalla del proyecto" />
-                </td>
-                <td class="project-name">
-                    <a class="link" href="https://www.museoreinasofia.es/apuntes-tiempo-aparte/" target="_blank">Apuntes para un tiempo aparte</a>
-                </td>
-                <td class="project-year">2024</td>
-                <td class="project-collab"> Museo Reina Sofía</td>
-                <td class="project-creator"></td>
-                <td><span>&#x2197; </span></td>
-            </tr>
             <tr class="project">
                 <td> <img src="https://archivoorsini.com/wp-content/uploads/2024/09/Captura-de-pantalla-2024-09-27-a-las-14.55.53.png" width="100" alt="Captura de pantalla del proyecto" />
                 </td>
                 <td class="project-name">
                     <a class="link" href="https://www.archivoorsini.com/" target="_blank">Archivo Orsini</a>
                 </td>
-                <td class="project-year">2024</td>
+                <td class="project-year">2025</td>
                 <td class="project-collab">Archivo Orsini</td>
                 <td class="project-creator"></td>
                 <td><span>&#x2197; </span></td>
@@ -69,8 +42,19 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
                 <td class="project-name">
                     <a class="link" href="https://www.archivoorsini.com/" target="_blank">Nos separa el puente y el río</a>
                 </td>
-                <td class="project-year">2024</td>
+                <td class="project-year">2025</td>
                 <td class="project-collab">El puente y el río</td>
+                <td class="project-creator"></td>
+                <td><span>&#x2197; </span></td>
+            </tr>
+            <tr class="project">
+                <td> <img src="https://images.squarespace-cdn.com/content/v1/5af169974611a0bf8c125561/cf2dbb7f-1a9b-4f9a-a388-5d542f468b99/constelacion.gif?format=750w" width="100" alt="Captura de pantalla del proyecto" />
+                </td>
+                <td class="project-name">
+                    <a class="link" href="https://www.museoreinasofia.es/apuntes-tiempo-aparte/" target="_blank">Apuntes para un tiempo aparte</a>
+                </td>
+                <td class="project-year">2024</td>
+                <td class="project-collab"> Museo Reina Sofía</td>
                 <td class="project-creator"></td>
                 <td><span>&#x2197; </span></td>
             </tr>
@@ -121,6 +105,22 @@ En 2018 estudié el _bootcamp_ de desarrollo front-end en Adalab.
                 <td class="project-collab"> Jardín Botánico-Histórico La Concepción</td>
                 <td class="project-creator"> 👩🏻‍💻👩🏻‍💻 <a class="link" href="https://github.com/veroreinah" target="_blank">Verónica Reina
                 </a></td>
+                <td><span>&#x2197; </span></td>
+            </tr>
+   <tr class="project">
+                <td> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_logo.svg" width="100" alt="Captura de pantalla del proyecto" />
+                </td>
+                <td class="project-name">
+                    <a class="link" href="https://radio.museoreinasofia.es/aniversario/" target="_blank">Web aniversario Radio Reina Sofía
+                    </a>
+                </td>
+                <td class="project-year">2021</td>
+                <td class="project-collab">RRS - Museo Reina Sofía</td>
+                <td class="project-creator"> 
+                👩🏻‍💻👩🏻‍💻 
+                  <a class="link" href="https://github.com/veroreinah" target="_blank"> Verónica Reina
+                </a>
+                </td>
                 <td><span>&#x2197; </span></td>
             </tr>
             <tr class="project">
