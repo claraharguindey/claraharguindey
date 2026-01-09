@@ -139,6 +139,6 @@ y la asignatura de Arte y Tecnología para estudiantes de Ingeniería en la UC3M
 Esto es muy friki, pero... En un intento por generar un nuevo espacio de creación experimental en torno a la web en Madrid, fundé el [club náutico](https://clubnautico.website/), ✦ un club para navegar por Internet y desarrollar web poéticas de forma colectiva.
 
 
-### Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/claraharguindey/)
+### Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/claraharguindey/)
 
 
